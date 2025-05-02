@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+#myh1{
+    font-size: 4em;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding: 30px;
+    border: 5px solid;
+    border-radius: 50px;
+    background-color:aqua;
+}
+
+#display{
+    font-size: 5em;
+}

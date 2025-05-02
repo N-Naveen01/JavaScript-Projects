@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+#button{
+    padding: 10px 10px;
+    font-size: 2em;
+    border-radius: 2em;
+}
+.label{
+    font-size: 2em;
+    padding: 10px 10px;
+}
